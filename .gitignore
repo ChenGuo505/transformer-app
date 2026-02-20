@@ -205,3 +205,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Dataset
+*.csv
+*.tsv
+*.jsonl
+*.json
+*.parquet
+*.hdf5
+*.h5
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*.tar.gz
+*.tar
+*.tar.bz2
+*.tar.xz
+*.7z
+*.log
+*.out
+*.log.*
+*.out.*
