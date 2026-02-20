@@ -227,3 +227,25 @@ __marimo__/
 *.out
 *.log.*
 *.out.*
+
+# model checkpoints
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.h5
+*.model
+*.safetensors
+*.onnx
+*.pb
+*.tflite
+*.ckpt.*
+*.pt.*
+*.pth.*
+*.bin.*
+*.h5.*
+*.model.*
+*.safetensors.*
+*.onnx.*
+*.pb.*
+*.tflite.*
